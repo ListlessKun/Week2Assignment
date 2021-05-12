@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 2021-05-05 11:22:16 PM : Starting C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4196.6509ms
+moved types parse time: 178ms
+candidates parse time : 4ms
+C# parse time         : 1782ms
+candidates check time : 95ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2021-05-05 11:22:52 PM : Starting C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 683.1958ms
+moved types parse time: 241ms
+candidates parse time : 3ms
+C# parse time         : 625ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2021-05-05 11:33:58 PM : Starting C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 500.4216ms
+moved types parse time: 129ms
+candidates parse time : 6ms
+C# parse time         : 534ms
+candidates check time : 190ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2021-05-05 11:36:00 PM : Starting C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 887.2252ms
+moved types parse time: 274ms
+candidates parse time : 4ms
+C# parse time         : 719ms
+candidates check time : 143ms
+console write time    : 2ms
+
