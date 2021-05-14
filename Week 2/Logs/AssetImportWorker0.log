@@ -1,0 +1,157 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1082; Version 1909; 64bit' Language: 'en' Physical Memory: 7632 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\tamee\OneDrive\Desktop\Unity\Unity Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/tamee/OneDrive/Desktop/Unity/Repository/Week2/Week2Assignment/Week 2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64621
+Successfully changed project path to: C:/Users/tamee/OneDrive/Desktop/Unity/Repository/Week2/Week2Assignment/Week 2
+C:/Users/tamee/OneDrive/Desktop/Unity/Repository/Week2/Week2Assignment/Week 2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/tamee/OneDrive/Desktop/Unity/Repository/Week2/Week2Assignment/Week 2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R4 Graphics (ID=0x98e4)
+    Vendor:   
+    VRAM:     3816 MB
+    Driver:   27.20.1028.1
+Initialize mono
+Mono path[0] = 'C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.160259 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.323 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.100 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.27 seconds
+Refreshing native plugins compatible for Editor in 1.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1483 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 9.265100 ms (FindLiveObjects: 0.674200 ms CreateObjectMapping: 0.620100 ms MarkObjects: 7.538700 ms  DeleteObjects: 0.428400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(c795f79a00a35884191bc28e6ed75fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(c795f79a00a35884191bc28e6ed75fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816f8586bed09dbb09e5762d2dc379d1') in 0.064514 seconds
+  Import took 0.100559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.918036 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b04cfa9bafe2aa93d1d762acf5d6ec1') in 0.069090 seconds
+  Import took 0.106655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.155969 seconds.
+  path: Assets/Prefabs/player.prefab
+  artifactKey: Guid(98f912ac70a794a4ebc3109f1bc7ed08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/player.prefab using Guid(98f912ac70a794a4ebc3109f1bc7ed08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c414b1d11fdbca8fc63385d2beca07') in 1.531159 seconds
+  Import took 1.563622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.335328 seconds.
+  path: Assets/Prefabs/Level Complete .prefab
+  artifactKey: Guid(eb0ef75f21462e045ad9eba096b3bdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Level Complete .prefab using Guid(eb0ef75f21462e045ad9eba096b3bdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c363284a816465e9c37077da1343dd') in 0.100424 seconds
+  Import took 0.123503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005801 seconds.
+  path: Assets/Prefabs/Level Complete .prefab
+  artifactKey: Guid(eb0ef75f21462e045ad9eba096b3bdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Level Complete .prefab using Guid(eb0ef75f21462e045ad9eba096b3bdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c363284a816465e9c37077da1343dd') in 0.140885 seconds
+  Import took 0.172176 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Projects/GaDWeek2Tutorial-main/Week 2/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Projects/GaDWeek2Tutorial-main/Week 2/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/tamee/OneDrive/Desktop/Unity/Unity Editor/2020.3.4f1/Projects/GaDWeek2Tutorial-main/Week 2/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1947.
+Total: 5.204200 ms (FindLiveObjects: 0.466000 ms CreateObjectMapping: 0.099300 ms MarkObjects: 4.421700 ms  DeleteObjects: 0.213900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.770466 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(c795f79a00a35884191bc28e6ed75fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(c795f79a00a35884191bc28e6ed75fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '260b9e4726bb73ae984520dd8a0fec6c') in 0.089624 seconds
+  Import took 0.133327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.471514 seconds.
+  path: Assets/Scenes/Level 3.unity
+  artifactKey: Guid(7fdd699f035470c4fbbbbf96dc1255de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 3.unity using Guid(7fdd699f035470c4fbbbbf96dc1255de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b579ed019aa4d192e3c6e5bcdebd2199') in 0.130311 seconds
+  Import took 0.159934 seconds .
+
